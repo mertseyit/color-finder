@@ -3,7 +3,7 @@ import Table from './components/Table';
 import './index.css';
 import { useState } from 'react';
 function App() {
-  const [color, setColor] = useState('white')
+  const [color, setColor] = useState('')
   return (
     <div className="App">
       <div>

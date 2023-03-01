@@ -1,4 +1,4 @@
-import Serach from './components/Serach';
+import Search from './components/Search';
 import Table from './components/Table';
 import './index.css';
 import { useState } from 'react';
@@ -9,7 +9,7 @@ function App() {
       <div>
         <Table color={color}/> 
         <br />
-        <Serach setColor={setColor} color={color}/>  
+        <Search setColor={setColor} color={color}/>  
       </div>
     </div>
   );

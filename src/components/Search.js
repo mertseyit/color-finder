@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Serach = ({color, setColor}) => {
+const Search = ({color, setColor}) => {
   return (
     <div>
         <input 
@@ -13,4 +13,4 @@ const Serach = ({color, setColor}) => {
   )
 }
 
-export default Serach
+export default Search

@@ -3,7 +3,7 @@ Simple React App for new starter. You can use this app to find any color
 
 How to you start this app ?
 
-First, open the terminal and write this commend:
+First, open the terminal and write this command:
 
 ```
 git clone https://github.com/mertseyit/color-finder.git
